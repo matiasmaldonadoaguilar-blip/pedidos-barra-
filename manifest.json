@@ -1,0 +1,15 @@
+{
+  "name": "La Barra — Pedidos",
+  "short_name": "La Barra",
+  "start_url": "/barra.html",
+  "display": "standalone",
+  "background_color": "#0A0A08",
+  "theme_color": "#C9A84C",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
